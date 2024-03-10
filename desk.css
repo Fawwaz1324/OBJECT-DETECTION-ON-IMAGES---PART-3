@@ -1,0 +1,22 @@
+div
+{
+    background-color: black;
+    color: aliceblue;
+    width: 4%;
+    height: 5%;
+    border-radius: 10%;
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+}
+
+h1
+{
+    background-color: teal;
+    color: aliceblue;
+}
+
+body
+{
+    background-size: cover;
+}

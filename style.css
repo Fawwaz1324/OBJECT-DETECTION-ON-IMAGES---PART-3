@@ -1,0 +1,13 @@
+div
+{
+    background-color: aliceblue;
+    color:purple;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 50%;
+}
+
+body
+{
+    background-size: cover;
+}
